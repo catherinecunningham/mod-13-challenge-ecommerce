@@ -5,4 +5,6 @@ This challenge includes back end code for the requested e-commerce website.  Use
 A link to the walkthrough video for this app can be found here:
 https://drive.google.com/file/d/1gRRUx83bg7K1bR1i-HmUJNMC3G_xzScx/view?usp=sharing
 
+Created with help from tutors and TA's in the Bootcamp program.
+
 ![image](https://user-images.githubusercontent.com/107148691/199869656-441c06cd-83ee-4c53-a832-32afbca5b9c4.png)
